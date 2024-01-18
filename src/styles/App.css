@@ -3,6 +3,11 @@
     height:50%;
     margin: auto;
 }
+
+
+
+
+
 body html .root {
     height: 100%;
 }
@@ -15,7 +20,3 @@ body html .root {
     width: 50px;
     border-radius: 25px;
 }
-
-/* .start{
-    display: none;
-} */
